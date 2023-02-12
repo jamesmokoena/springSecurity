@@ -1,0 +1,6 @@
+com\example\springSecurity\User.class
+com\example\springSecurity\CustomUserDetails.class
+com\example\springSecurity\HomeController.class
+com\example\springSecurity\CustomUserDetailsService.class
+com\example\springSecurity\UserRepository.class
+com\example\springSecurity\SpringSecurityDemoApplication.class
